@@ -5,8 +5,8 @@
 [146. LRU Cache (Medium)](./101-200/146_LRU_Cache.md)
 
 ### DP
-[1143. Longest Common Subsequence (Medium)](./1101-1200/1143_Longest_Common_Subsequence.md)
 [53. Maximum Subarray (Easy)](./1-100/53_Maximum_Subarray.md)
+[1143. Longest Common Subsequence (Medium)](./1101-1200/1143_Longest_Common_Subsequence.md)
 
 ### Greedy
 [55. Jump Game (Medium)](./1-100/55_Jump_Game.md)
