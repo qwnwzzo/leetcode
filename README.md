@@ -10,5 +10,8 @@
 ### Hash Map
 [1. Two Sum (Easy)](./1-100/1_Two_Sum.md)
 
+### String
+[5. Longest Palindromic Substring (Medium)](./1-100/5_Longest_Palindromic_Substring.md)
+
 ### Union Find
 [737. Sentence Similarity II (Medium)](./701-800/737_Sentence_Similarity_II.md)
