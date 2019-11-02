@@ -1,3 +1,6 @@
+### Bit
+[191. Number of 1 Bits (Easy)](./101-200/191_Number_of_1_Bits.md)
+
 ### Design
 [146. LRU Cache (Medium)](./101-200/146_LRU_Cache.md)
 
