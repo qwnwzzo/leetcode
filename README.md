@@ -8,6 +8,9 @@
 [53. Maximum Subarray (Easy)](./1-100/53_Maximum_Subarray.md)<br />
 [62. Unique Paths (Medium)](./1-100/62_Unique_Paths.md)<br />
 [63. Unique Paths II (Medium)](./1-100/63_Unique_Paths_II.md)<br />
+[64. Minimum Path Sum (Medium)](./1-100/64_Minimum_Path_Sum.md)<br />
+[70. Climbing Stairs (Easy)](./1-100/70_Climbing_Stairs.md)<br />
+[72. Edit Distance (Hard)](./1-100/72_Edit_Distance.md)<br />
 [1143. Longest Common Subsequence (Medium)](./1101-1200/1143_Longest_Common_Subsequence.md)
 
 ### Greedy
