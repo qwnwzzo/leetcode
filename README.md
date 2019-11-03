@@ -20,6 +20,9 @@
 ### Hash Map
 [1. Two Sum (Easy)](./1-100/1_Two_Sum.md)
 
+### Linked List
+[2. Add Two Numbers (Medium)](./1-100/2_Add_Two_Numbers.md)
+
 ### String
 [5. Longest Palindromic Substring (Medium)](./1-100/5_Longest_Palindromic_Substring.md)
 
