@@ -1,3 +1,6 @@
+### Binary Search
+[378. Kth Smallest Element in a Sorted Matrix (Medium)](./301-400/378_Kth_Smallest_Element_in_a_Sorted_Matrix.md)
+
 ### Bit
 [191. Number of 1 Bits (Easy)](./101-200/191_Number_of_1_Bits.md)
 
