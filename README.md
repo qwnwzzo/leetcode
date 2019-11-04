@@ -20,8 +20,12 @@
 ### Hash Map
 [1. Two Sum (Easy)](./1-100/1_Two_Sum.md)
 
+### Heap
+[23. Merge k Sorted Lists (Hard)](./1-100/23_Merge_k_Sorted_Lists.md)
+
 ### Linked List
 [2. Add Two Numbers (Medium)](./1-100/2_Add_Two_Numbers.md)<br />
+[21. Merge Two Sorted Lists (Easy)](./1-100/21_Merge_Two_Sorted_Lists.md)<br />
 [19. Remove Nth Node From End of List (Medium)](./1-100/19_Remove_Nth_Node_From_End_of_List.md)
 
 ### String
