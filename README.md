@@ -35,4 +35,5 @@
 [5. Longest Palindromic Substring (Medium)](./1-100/5_Longest_Palindromic_Substring.md)
 
 ### Union Find
+[721. Accounts Merge (Medium)](./701-800/721_Accounts_Merge.md)<br />
 [737. Sentence Similarity II (Medium)](./701-800/737_Sentence_Similarity_II.md)
