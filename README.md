@@ -32,7 +32,8 @@
 [19. Remove Nth Node From End of List (Medium)](./1-100/19_Remove_Nth_Node_From_End_of_List.md)
 
 ### String
-[5. Longest Palindromic Substring (Medium)](./1-100/5_Longest_Palindromic_Substring.md)
+[5. Longest Palindromic Substring (Medium)](./1-100/5_Longest_Palindromic_Substring.md)<br />
+[722. Remove Comments (Medium)](./701-800/722_Remove_Comments.md)
 
 ### Union Find
 [721. Accounts Merge (Medium)](./701-800/721_Accounts_Merge.md)<br />
