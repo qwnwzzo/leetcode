@@ -1,3 +1,6 @@
+### Backtracking
+[131. Palindrome Partitioning (Medium)](./101-200/131_Palindrome_Partitioning.md)
+
 ### Binary Search
 [378. Kth Smallest Element in a Sorted Matrix (Medium)](./301-400/378_Kth_Smallest_Element_in_a_Sorted_Matrix.md)
 
