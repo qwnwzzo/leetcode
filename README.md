@@ -1,6 +1,9 @@
 ### Backtracking
 [131. Palindrome Partitioning (Medium)](./101-200/131_Palindrome_Partitioning.md)
 
+### BFS
+[1162. As Far from Land as Possible (Medium)](./1101-1200/1162_As_Far_from_Land_as_Possible.md)
+
 ### Binary Search
 [378. Kth Smallest Element in a Sorted Matrix (Medium)](./301-400/378_Kth_Smallest_Element_in_a_Sorted_Matrix.md)
 
