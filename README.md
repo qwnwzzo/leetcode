@@ -24,6 +24,7 @@
 ### Graph
 [207. Course Schedule (Medium)](./201-300/207_Course_Schedule.md)<br />
 [210. Course Schedule II (Medium)](./201-300/210_Course_Schedule_II.md)<br />
+[684. Redundant Connection (Medium)](./601-700/684_Redundant_Connection.md)<br />
 [997. Find the Town Judge (Easy)](./901-1000/997_Find_the_Town_Judge.md)
 
 ### Greedy
