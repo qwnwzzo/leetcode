@@ -39,6 +39,9 @@
 [5. Longest Palindromic Substring (Medium)](./1-100/5_Longest_Palindromic_Substring.md)<br />
 [722. Remove Comments (Medium)](./701-800/722_Remove_Comments.md)
 
+### Tree
+[450. Delete Node in a BST (Medium)](./401-500/450_Delete_Node_in_a_BST.md)
+
 ### Two Pointers
 [3. Longest Substring Without Repeating Characters (Medium)](./1-100/3_Longest_Substring_Without_Repeating_Characters.md)
 
