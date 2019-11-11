@@ -2,6 +2,8 @@
 [131. Palindrome Partitioning (Medium)](./101-200/131_Palindrome_Partitioning.md)
 
 ### BFS
+[310. Minimum Height Trees (Medium)](./301-400/310_Minimum_Height_Trees.md)<br />
+[1161. Maximum Level Sum of a Binary Tree (Medium)](./1101-1200/1161_Maximum_Level_Sum_of_a_Binary_Tree.md)<br />
 [1162. As Far from Land as Possible (Medium)](./1101-1200/1162_As_Far_from_Land_as_Possible.md)
 
 ### Binary Search
@@ -31,6 +33,7 @@
 [133. Clone Graph (Medium)](./101-200/133_Clone_Graph.md)<br />
 [207. Course Schedule (Medium)](./201-300/207_Course_Schedule.md)<br />
 [210. Course Schedule II (Medium)](./201-300/210_Course_Schedule_II.md)<br />
+[310. Minimum Height Trees (Medium)](./301-400/310_Minimum_Height_Trees.md)<br />
 [323. Number of Connected Components in an Undirected Graph (Medium)](301-400/323_Number_of_Connected_Components_in_an_Undirected_Graph.md)<br />
 [684. Redundant Connection (Medium)](./601-700/684_Redundant_Connection.md)<br />
 [785. Is Graph Bipartite? (Medium)](./701-800/785_Is_Graph_Bipartite?.md)<br />
