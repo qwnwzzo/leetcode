@@ -32,6 +32,7 @@
 [210. Course Schedule II (Medium)](./201-300/210_Course_Schedule_II.md)<br />
 [323. Number of Connected Components in an Undirected Graph (Medium)](301-400/323_Number_of_Connected_Components_in_an_Undirected_Graph.md)<br />
 [684. Redundant Connection (Medium)](./601-700/684_Redundant_Connection.md)<br />
+[785. Is Graph Bipartite? (Medium)](./701-800/785_Is_Graph_Bipartite?.md)<br />
 [997. Find the Town Judge (Easy)](./901-1000/997_Find_the_Town_Judge.md)<br />
 [1042. Flower Planting With No Adjacent (Easy)](./1001-1100/1042_Flower_Planting_With_NoAdjacent.md)
 
