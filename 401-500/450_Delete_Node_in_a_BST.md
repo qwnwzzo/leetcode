@@ -55,9 +55,7 @@ class Solution(object):
     
     def delete_min_node(self, node):
         if node.left is None:
-            new_node = node.right
-            node.right = None
-            return new_node
+            return node.right
         
         node.left = self.delete_min_node(node.left)
         return node
@@ -80,21 +78,15 @@ class Solution(object):
             return root
         
         if root.left is None:
-            new_node = root.right
-            root.right = None
-            return new_node
+            return root.right
         
         if root.right is None:
-            new_node = root.left
-            root.left = None
-            return new_node
+            return root.left
         
         min_node = self.get_min_node(root.right)
         copy_min_node = TreeNode(min_node.val)
         copy_min_node.left = root.left
         copy_min_node.right = self.delete_min_node(root.right)
-        root.left = None
-        root.right = None
         
         return copy_min_node
 ```

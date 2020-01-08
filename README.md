@@ -60,6 +60,7 @@
 
 ### String
 [5. Longest Palindromic Substring (Medium)](./1-100/5_Longest_Palindromic_Substring.md)<br />
+[6. ZigZag Conversion (Medium)](./1-100/6_ZigZag_Conversion.md)<br />
 [722. Remove Comments (Medium)](./701-800/722_Remove_Comments.md)
 
 ### Tree

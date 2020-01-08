@@ -51,12 +51,12 @@ class Solution(object):
         :type nums: List[int]
         :rtype: bool
         """
-        farthest = 0
+        farthest_index = 0
         for i in range(len(nums)):
-            if i > farthest:
+            if i > farthest_index:
                 return False
             
-            farthest = max(farthest, i + nums[i])
+            farthest_index = max(farthest_index, i + nums[i])
         
         return True
 ```
