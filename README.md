@@ -55,6 +55,9 @@
 [21. Merge Two Sorted Lists (Easy)](./1-100/21_Merge_Two_Sorted_Lists.md)<br />
 [19. Remove Nth Node From End of List (Medium)](./1-100/19_Remove_Nth_Node_From_End_of_List.md)
 
+### Math
+[9. Palindrome Number (Medium)](./1-100/9_Palindrome_Number.md)<br />
+
 ### Stack
 [71. Simplify Path (Medium)](./1-100/71_Simplify_Path.md)
 
