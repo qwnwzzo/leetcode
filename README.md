@@ -70,7 +70,10 @@
 [450. Delete Node in a BST (Medium)](./401-500/450_Delete_Node_in_a_BST.md)
 
 ### Two Pointers
-[3. Longest Substring Without Repeating Characters (Medium)](./1-100/3_Longest_Substring_Without_Repeating_Characters.md)
+[3. Longest Substring Without Repeating Characters (Medium)](./1-100/3_Longest_Substring_Without_Repeating_Characters.md)<br />
+[11. Container With Most Water (Medium)](./1-100/11_Container_With_Most_Water.md)<br />
+[15. 3 Sum (Medium)](./1-100/15_3_Sum.md)<br />
+[16. 3 Sum Closest (Medium)](./1-100/16_3_Sum_Closest.md)
 
 ### Union Find
 [721. Accounts Merge (Medium)](./701-800/721_Accounts_Merge.md)<br />
