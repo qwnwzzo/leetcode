@@ -1,5 +1,6 @@
 ### Backtracking
 [17. Letter Combinations of a Phone Number (Medium)](./1-100/17_Letter_Combinations_of_a_Phone_Number.md)<br />
+[22. Generate Parentheses (Medium)](./1-100/22_Generate_Parentheses.md)<br />
 [131. Palindrome Partitioning (Medium)](./101-200/131_Palindrome_Partitioning.md)
 
 ### BFS
@@ -8,6 +9,9 @@
 [1162. As Far from Land as Possible (Medium)](./1101-1200/1162_As_Far_from_Land_as_Possible.md)
 
 ### Binary Search
+[33. Search in Rotated Sorted Array (Medium)](./1-100/33_Search_in_Rotated_Sorted_Array.md)<br />
+[34. Find First and Last Position of Element in Sorted Array (Medium)](./1-100/34_Find_First_and_Last_Position_of_Element_in_Sorted_Array.md)<br />
+[35. Search Insert Position (Medium)](./1-100/35_Search_Insert_Position.md)<br />
 [378. Kth Smallest Element in a Sorted Matrix (Medium)](./301-400/378_Kth_Smallest_Element_in_a_Sorted_Matrix.md)
 
 ### Bit
@@ -54,12 +58,14 @@
 ### Linked List
 [2. Add Two Numbers (Medium)](./1-100/2_Add_Two_Numbers.md)<br />
 [21. Merge Two Sorted Lists (Easy)](./1-100/21_Merge_Two_Sorted_Lists.md)<br />
-[19. Remove Nth Node From End of List (Medium)](./1-100/19_Remove_Nth_Node_From_End_of_List.md)
+[19. Remove Nth Node From End of List (Medium)](./1-100/19_Remove_Nth_Node_From_End_of_List.md)<br />
+[24. Swap Nodes in Pairs (Medium)](./1-100/24_Swap_Nodes_in_Pairs.md)
 
 ### Math
 [9. Palindrome Number (Medium)](./1-100/9_Palindrome_Number.md)<br />
 
 ### Stack
+[20. Valid Parentheses (Simple)](./1-100/20_Valid_Parentheses.md)
 [71. Simplify Path (Medium)](./1-100/71_Simplify_Path.md)
 
 ### String
