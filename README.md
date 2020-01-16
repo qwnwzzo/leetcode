@@ -1,6 +1,13 @@
 ### Backtracking
 [17. Letter Combinations of a Phone Number (Medium)](./1-100/17_Letter_Combinations_of_a_Phone_Number.md)<br />
 [22. Generate Parentheses (Medium)](./1-100/22_Generate_Parentheses.md)<br />
+[39. Combination Sum (Medium)](./1-100/39_Combination_Sum.md)<br />
+[40. Combination Sum II (Medium)](./1-100/40_Combination_Sum_II.md)<br />
+[46. Permutations (Medium)](./1-100/46_Permutations.md)<br />
+[47. Permutations II (Medium)](./1-100/47_Permutations_II.md)<br />
+[77. Combinations (Medium)](./1-100/77_Combinations.md)<br />
+[78. Subsets (Medium)](./1-100/78_Subsets.md)<br />
+[90. Subsets II (Medium)](./1-100/90_Subsets_II.md)<br />
 [131. Palindrome Partitioning (Medium)](./101-200/131_Palindrome_Partitioning.md)
 
 ### BFS
@@ -50,7 +57,8 @@
 [55. Jump Game (Medium)](./1-100/55_Jump_Game.md)
 
 ### Hash Map
-[1. Two Sum (Easy)](./1-100/1_Two_Sum.md)
+[1. Two Sum (Easy)](./1-100/1_Two_Sum.md)<br />
+[49. Group Anagrams (Medium)](./1-100/49_Group_Anagrams.md)<br />
 
 ### Heap
 [23. Merge k Sorted Lists (Hard)](./1-100/23_Merge_k_Sorted_Lists.md)
@@ -59,10 +67,14 @@
 [2. Add Two Numbers (Medium)](./1-100/2_Add_Two_Numbers.md)<br />
 [21. Merge Two Sorted Lists (Easy)](./1-100/21_Merge_Two_Sorted_Lists.md)<br />
 [19. Remove Nth Node From End of List (Medium)](./1-100/19_Remove_Nth_Node_From_End_of_List.md)<br />
-[24. Swap Nodes in Pairs (Medium)](./1-100/24_Swap_Nodes_in_Pairs.md)
+[24. Swap Nodes in Pairs (Medium)](./1-100/24_Swap_Nodes_in_Pairs.md)<br />
+[82. Remove Duplicates from Sorted List II (Medium)](./1-100/82_Remove_Duplicates_from_Sorted_List_II.md)
+[83. Remove Duplicates from Sorted List (Easy)](./1-100/83_Remove_Duplicates_from_Sorted_List.md)<br />
+[206. Reverse Linked List (Easy)](./201-300/206_Reverse_Linked_List.md)<br />
 
 ### Math
 [9. Palindrome Number (Medium)](./1-100/9_Palindrome_Number.md)<br />
+[48. Rotate Image (Medium)](./1-100/48_Rotate_Image.md)<br />
 
 ### Stack
 [20. Valid Parentheses (Simple)](./1-100/20_Valid_Parentheses.md)
@@ -74,13 +86,23 @@
 [722. Remove Comments (Medium)](./701-800/722_Remove_Comments.md)
 
 ### Tree
+[98. Validate Binary Search Tree (Medium)](./1-100/98_Validate_Binary_Search_Tree.md)<br />
+[100. Same Tree (Easy)](./1-100/100_Same_Tree.md)<br />
+[101. Symmetric Tree (Easy)](./101-200/101_Symmetric_Tree.md)<br />
+[102. Binary Tree Level Order Traversal (Medium)](./101-200/102_Binary_Tree_Level_Order_Traversal.md)<br />
+[104. Maximum Depth of Binary Tree (Easy)](./101-200/104_Maximum_Depth_of_Binary_Tree.md)<br />
+[110. Balanced Binary Tree (Easy)](./101-200/110_Balanced_Binary_Tree.md)<br />
+[111. Minimum Depth of Binary Tree (Medium)](./101-200/111_Minimum_Depth_of_Binary_Tree.md)<br />
+[112. Path Sum (Easy)](./101-200/112_Path_Sum.md)<br />
+[113. Path Sum II (Medium)](./101-200/113_Path_Sum_II.md)<br />
 [450. Delete Node in a BST (Medium)](./401-500/450_Delete_Node_in_a_BST.md)
 
 ### Two Pointers
 [3. Longest Substring Without Repeating Characters (Medium)](./1-100/3_Longest_Substring_Without_Repeating_Characters.md)<br />
 [11. Container With Most Water (Medium)](./1-100/11_Container_With_Most_Water.md)<br />
 [15. 3 Sum (Medium)](./1-100/15_3_Sum.md)<br />
-[16. 3 Sum Closest (Medium)](./1-100/16_3_Sum_Closest.md)
+[16. 3 Sum Closest (Medium)](./1-100/16_3_Sum_Closest.md)<br />
+[88. Merge Sorted Array (Easy)](./1-100/88_Merge_Sorted_Array.md)<br />
 
 ### Union Find
 [721. Accounts Merge (Medium)](./701-800/721_Accounts_Merge.md)<br />
