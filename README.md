@@ -11,6 +11,7 @@
 [131. Palindrome Partitioning (Medium)](./101-200/131_Palindrome_Partitioning.md)
 
 ### BFS
+[127. Word Ladder (Medium)](./101-200/127_Word_Ladder.md)<br />
 [310. Minimum Height Trees (Medium)](./301-400/310_Minimum_Height_Trees.md)<br />
 [1161. Maximum Level Sum of a Binary Tree (Medium)](./1101-1200/1161_Maximum_Level_Sum_of_a_Binary_Tree.md)<br />
 [1162. As Far from Land as Possible (Medium)](./1101-1200/1162_As_Far_from_Land_as_Possible.md)
@@ -75,6 +76,8 @@
 ### Math
 [9. Palindrome Number (Medium)](./1-100/9_Palindrome_Number.md)<br />
 [48. Rotate Image (Medium)](./1-100/48_Rotate_Image.md)<br />
+[118. Pascal's Triangle (Easy)](./101-200/118_Pascal's_Triangle.md)<br />
+[119. Pascal's Triangle II (Easy)](./101-200/119_Pascal's_Triangle_II.md)<br />
 
 ### Stack
 [20. Valid Parentheses (Simple)](./1-100/20_Valid_Parentheses.md)
@@ -91,10 +94,13 @@
 [101. Symmetric Tree (Easy)](./101-200/101_Symmetric_Tree.md)<br />
 [102. Binary Tree Level Order Traversal (Medium)](./101-200/102_Binary_Tree_Level_Order_Traversal.md)<br />
 [104. Maximum Depth of Binary Tree (Easy)](./101-200/104_Maximum_Depth_of_Binary_Tree.md)<br />
+[108. Convert Sorted Array to Binary Search Tree (Easy)](./101-200/108_Convert_Sorted_Array_to_Binary_Search_Tree.md)<br />
 [110. Balanced Binary Tree (Easy)](./101-200/110_Balanced_Binary_Tree.md)<br />
 [111. Minimum Depth of Binary Tree (Medium)](./101-200/111_Minimum_Depth_of_Binary_Tree.md)<br />
 [112. Path Sum (Easy)](./101-200/112_Path_Sum.md)<br />
 [113. Path Sum II (Medium)](./101-200/113_Path_Sum_II.md)<br />
+[114. Flatten Binary Tree to Linked List (Medium)](./101-200/114_Flatten_Binary_Tree_to_Linked_List.md)<br />
+[116. Populating Next Right Pointers in Each Node (Medium)](./101-200/116_Populating_Next_Right_Pointers_in_Each_Node.md)<br />
 [450. Delete Node in a BST (Medium)](./401-500/450_Delete_Node_in_a_BST.md)
 
 ### Two Pointers
@@ -103,6 +109,7 @@
 [15. 3 Sum (Medium)](./1-100/15_3_Sum.md)<br />
 [16. 3 Sum Closest (Medium)](./1-100/16_3_Sum_Closest.md)<br />
 [88. Merge Sorted Array (Easy)](./1-100/88_Merge_Sorted_Array.md)<br />
+[125. Valid Palindrome (Easy)](./101-200/125_Valid_Palindrome.md)<br />
 
 ### Union Find
 [721. Accounts Merge (Medium)](./701-800/721_Accounts_Merge.md)<br />
