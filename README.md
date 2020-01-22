@@ -8,7 +8,7 @@
 [77. Combinations (Medium)](./1-100/77_Combinations.md)<br />
 [78. Subsets (Medium)](./1-100/78_Subsets.md)<br />
 [90. Subsets II (Medium)](./1-100/90_Subsets_II.md)<br />
-[131. Palindrome Partitioning (Medium)](./101-200/131_Palindrome_Partitioning.md)
+[131. Palindrome Partitioning (Medium)](./101-200/131_Palindrome_Partitioning.md)<br />
 
 ### BFS
 [127. Word Ladder (Medium)](./101-200/127_Word_Ladder.md)<br />
@@ -23,12 +23,14 @@
 [378. Kth Smallest Element in a Sorted Matrix (Medium)](./301-400/378_Kth_Smallest_Element_in_a_Sorted_Matrix.md)
 
 ### Bit
-[191. Number of 1 Bits (Easy)](./101-200/191_Number_of_1_Bits.md)
+[136. Single Number (Easy)](./101-200/136_Single_Number.md)<br />
+[191. Number of 1 Bits (Easy)](./101-200/191_Number_of_1_Bits.md)<br />
 
 ### Design
 [146. LRU Cache (Medium)](./101-200/146_LRU_Cache.md)
 
 ### DFS
+[130. Surrounded Regions (Medium)](./101-200/130_Surrounded_Regions.md)<br />
 [323. Number of Connected Components in an Undirected Graph (Medium)](301-400/323_Number_of_Connected_Components_in_an_Undirected_Graph.md)<br />
 
 ### DP
@@ -40,6 +42,8 @@
 [72. Edit Distance (Hard)](./1-100/72_Edit_Distance.md)<br />
 [91. Decode Ways (Medium)](./1-100/91_Decode_Ways.md)<br />
 [132. Palindrome Partitioning II (Hard)](./101-200/132_Palindrome_Partitioning_II.md)<br />
+[139. Word Break (Medium)](./101-200/139_Word_Break.md)<br />
+[152. Maximum Product Subarray (Medium)](./101-200/152_Maximum_Product_Subarray.md)<br />
 [1143. Longest Common Subsequence (Medium)](./1101-1200/1143_Longest_Common_Subsequence.md)
 
 ### Graph
@@ -71,6 +75,7 @@
 [24. Swap Nodes in Pairs (Medium)](./1-100/24_Swap_Nodes_in_Pairs.md)<br />
 [82. Remove Duplicates from Sorted List II (Medium)](./1-100/82_Remove_Duplicates_from_Sorted_List_II.md)
 [83. Remove Duplicates from Sorted List (Easy)](./1-100/83_Remove_Duplicates_from_Sorted_List.md)<br />
+[141. Linked List Cycle (Easy)](./101-200/141_Linked_List_Cycle.md)<br />
 [206. Reverse Linked List (Easy)](./201-300/206_Reverse_Linked_List.md)<br />
 
 ### Math
@@ -80,13 +85,14 @@
 [119. Pascal's Triangle II (Easy)](./101-200/119_Pascal's_Triangle_II.md)<br />
 
 ### Stack
-[20. Valid Parentheses (Simple)](./1-100/20_Valid_Parentheses.md)
+[20. Valid Parentheses (Simple)](./1-100/20_Valid_Parentheses.md)<br />
 [71. Simplify Path (Medium)](./1-100/71_Simplify_Path.md)
 
 ### String
 [5. Longest Palindromic Substring (Medium)](./1-100/5_Longest_Palindromic_Substring.md)<br />
 [6. ZigZag Conversion (Medium)](./1-100/6_ZigZag_Conversion.md)<br />
-[722. Remove Comments (Medium)](./701-800/722_Remove_Comments.md)
+[151. Reverse Words in a String (Medium)](./101-200/151_Reverse_Words_in_a_String.md)<br />
+[722. Remove Comments (Medium)](./701-800/722_Remove_Comments.md)<br />
 
 ### Tree
 [98. Validate Binary Search Tree (Medium)](./1-100/98_Validate_Binary_Search_Tree.md)<br />
@@ -101,6 +107,7 @@
 [113. Path Sum II (Medium)](./101-200/113_Path_Sum_II.md)<br />
 [114. Flatten Binary Tree to Linked List (Medium)](./101-200/114_Flatten_Binary_Tree_to_Linked_List.md)<br />
 [116. Populating Next Right Pointers in Each Node (Medium)](./101-200/116_Populating_Next_Right_Pointers_in_Each_Node.md)<br />
+[129. Sum Root to Leaf Numbers (Medium)](./101-200/129_Sum_Root_to_Leaf_Numbers.md)<br />
 [450. Delete Node in a BST (Medium)](./401-500/450_Delete_Node_in_a_BST.md)
 
 ### Two Pointers
