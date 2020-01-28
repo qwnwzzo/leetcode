@@ -20,6 +20,7 @@
 [33. Search in Rotated Sorted Array (Medium)](./1-100/33_Search_in_Rotated_Sorted_Array.md)<br />
 [34. Find First and Last Position of Element in Sorted Array (Medium)](./1-100/34_Find_First_and_Last_Position_of_Element_in_Sorted_Array.md)<br />
 [35. Search Insert Position (Medium)](./1-100/35_Search_Insert_Position.md)<br />
+[153. Find Minimum in Rotated Sorted Array (Medium)](./101-200/153_Find_Minimum_in_Rotated_Sorted_Array.md)<br />
 [378. Kth Smallest Element in a Sorted Matrix (Medium)](./301-400/378_Kth_Smallest_Element_in_a_Sorted_Matrix.md)
 
 ### Bit
@@ -27,10 +28,15 @@
 [191. Number of 1 Bits (Easy)](./101-200/191_Number_of_1_Bits.md)<br />
 
 ### Design
-[146. LRU Cache (Medium)](./101-200/146_LRU_Cache.md)
+[146. LRU Cache (Medium)](./101-200/146_LRU_Cache.md)<br />
+[155. Min Stack (Easy)](./101-200/155_Min_Stack.md)<br />
+[173. Binary Search Tree Iterator (Medium)](./101-200/173_Binary_Search_Tree_Iterator.md)<br />
 
 ### DFS
+[79. Word Search (medium)](./1-100/79_Word_Search.md)<br />
 [130. Surrounded Regions (Medium)](./101-200/130_Surrounded_Regions.md)<br />
+[169. Majority Element (Easy)](./101-200/169_Majority_Element.md)<br />
+[200. Number of Islands (Medium)](./101-200/200_Number_of_Islands.md)<br />
 [323. Number of Connected Components in an Undirected Graph (Medium)](301-400/323_Number_of_Connected_Components_in_an_Undirected_Graph.md)<br />
 
 ### DP
@@ -44,6 +50,8 @@
 [132. Palindrome Partitioning II (Hard)](./101-200/132_Palindrome_Partitioning_II.md)<br />
 [139. Word Break (Medium)](./101-200/139_Word_Break.md)<br />
 [152. Maximum Product Subarray (Medium)](./101-200/152_Maximum_Product_Subarray.md)<br />
+[198. House Robber (Easy)](./101-200/198_House_Robber.md)<br />
+[213. House Robber II (Medium)](./201-300/213_House_Robber_II.md)<br />
 [1143. Longest Common Subsequence (Medium)](./1101-1200/1143_Longest_Common_Subsequence.md)
 
 ### Graph
@@ -83,6 +91,7 @@
 [48. Rotate Image (Medium)](./1-100/48_Rotate_Image.md)<br />
 [118. Pascal's Triangle (Easy)](./101-200/118_Pascal's_Triangle.md)<br />
 [119. Pascal's Triangle II (Easy)](./101-200/119_Pascal's_Triangle_II.md)<br />
+[189. Rotate Array (Easy)](./101-200/189_Rotate_Array.md)<br />
 
 ### Stack
 [20. Valid Parentheses (Simple)](./1-100/20_Valid_Parentheses.md)<br />
@@ -117,6 +126,7 @@
 [16. 3 Sum Closest (Medium)](./1-100/16_3_Sum_Closest.md)<br />
 [88. Merge Sorted Array (Easy)](./1-100/88_Merge_Sorted_Array.md)<br />
 [125. Valid Palindrome (Easy)](./101-200/125_Valid_Palindrome.md)<br />
+[209. Minimum Size Subarray Sum (Medum)](./201-300/209_Minimum_Size_Subarray_Sum.md)<br />
 
 ### Union Find
 [721. Accounts Merge (Medium)](./701-800/721_Accounts_Merge.md)<br />
