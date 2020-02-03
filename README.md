@@ -27,6 +27,7 @@
 ### Bit
 [136. Single Number (Easy)](./101-200/136_Single_Number.md)<br />
 [191. Number of 1 Bits (Easy)](./101-200/191_Number_of_1_Bits.md)<br />
+[338. Counting Bits (Medium)](./301-400/338_Counting_Bits.md)<br />
 
 ### Design
 [146. LRU Cache (Medium)](./101-200/146_LRU_Cache.md)<br />
@@ -57,6 +58,10 @@
 [198. House Robber (Easy)](./101-200/198_House_Robber.md)<br />
 [213. House Robber II (Medium)](./201-300/213_House_Robber_II.md)<br />
 [221. Maximal Square (Medium)](./201-300/221_Maximal_Square.md)<br />
+[279. Perfect Squares (Medium)](./201-300/279_Perfect_Squares.md)<br />
+[300. Longest Increasing Subsequence (Medium)](./201-300/300_Longest_Increasing_Subsequence.md)<br />
+[303. Range Sum Query - Immutable (Easy)](./301-400/303_Range_Sum_Query.md)<br />
+[357. Count Numbers with Unique Digits (Medium)](./301-400/357_Count_Numbers_with_Unique_Digits.md)<br />
 [1143. Longest Common Subsequence (Medium)](./1101-1200/1143_Longest_Common_Subsequence.md)
 
 ### Graph
@@ -77,9 +82,11 @@
 ### Hash Map
 [1. Two Sum (Easy)](./1-100/1_Two_Sum.md)<br />
 [49. Group Anagrams (Medium)](./1-100/49_Group_Anagrams.md)<br />
+[350. Intersection of Two Arrays II (Easy)](./301-400/350_Intersection_of_Two_Arrays_II.md)<br />
 
 ### Heap
-[23. Merge k Sorted Lists (Hard)](./1-100/23_Merge_k_Sorted_Lists.md)
+[23. Merge k Sorted Lists (Hard)](./1-100/23_Merge_k_Sorted_Lists.md)<br />
+[347. Top K Frequent Elements (Medium)](./301-400/347_Top_K_Frequent_Elements.md)<br />
 
 ### Linked List
 [2. Add Two Numbers (Medium)](./1-100/2_Add_Two_Numbers.md)<br />
@@ -91,6 +98,7 @@
 [141. Linked List Cycle (Easy)](./101-200/141_Linked_List_Cycle.md)<br />
 [206. Reverse Linked List (Easy)](./201-300/206_Reverse_Linked_List.md)<br />
 [203. Remove Linked List Elements (Easy)](./201-300/203_Remove_Linked_List_Elements.md)<br />
+[328. Odd Even Linked List (Medium)](./301-400/328_Odd_Even_Linked_List.md)<br />
 
 ### Math
 [9. Palindrome Number (Medium)](./1-100/9_Palindrome_Number.md)<br />
@@ -98,6 +106,8 @@
 [118. Pascal's Triangle (Easy)](./101-200/118_Pascal's_Triangle.md)<br />
 [119. Pascal's Triangle II (Easy)](./101-200/119_Pascal's_Triangle_II.md)<br />
 [189. Rotate Array (Easy)](./101-200/189_Rotate_Array.md)<br />
+[258. Add Digits (Easy)](./201-300/258_Add_Digits.md)<br />
+[349. Intersection of Two Arrays (Easy)](./301-400/349_Intersection_of_Two_Arrays.md)<br />
 
 ### Stack
 [20. Valid Parentheses (Simple)](./1-100/20_Valid_Parentheses.md)<br />
@@ -138,6 +148,7 @@
 [125. Valid Palindrome (Easy)](./101-200/125_Valid_Palindrome.md)<br />
 [209. Minimum Size Subarray Sum (Medum)](./201-300/209_Minimum_Size_Subarray_Sum.md)<br />
 [228. Summary Ranges (Medium)](./201-300/228_Summary_Ranges.md)<br />
+[283. Move Zeroes (Easy)](./201-300/283_Move_Zeroes.md)<br />
 
 ### Union Find
 [721. Accounts Merge (Medium)](./701-800/721_Accounts_Merge.md)<br />
