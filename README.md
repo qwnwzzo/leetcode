@@ -22,7 +22,7 @@
 [34. Find First and Last Position of Element in Sorted Array (Medium)](./1-100/34_Find_First_and_Last_Position_of_Element_in_Sorted_Array.md)<br />
 [35. Search Insert Position (Medium)](./1-100/35_Search_Insert_Position.md)<br />
 [153. Find Minimum in Rotated Sorted Array (Medium)](./101-200/153_Find_Minimum_in_Rotated_Sorted_Array.md)<br />
-[378. Kth Smallest Element in a Sorted Matrix (Medium)](./301-400/378_Kth_Smallest_Element_in_a_Sorted_Matrix.md)
+[378. Kth Smallest Element in a Sorted Matrix (Medium)](./301-400/378_Kth_Smallest_Element_in_a_Sorted_Matrix.md)<br />
 
 ### Bit
 [136. Single Number (Easy)](./101-200/136_Single_Number.md)<br />
@@ -83,10 +83,12 @@
 [1. Two Sum (Easy)](./1-100/1_Two_Sum.md)<br />
 [49. Group Anagrams (Medium)](./1-100/49_Group_Anagrams.md)<br />
 [350. Intersection of Two Arrays II (Easy)](./301-400/350_Intersection_of_Two_Arrays_II.md)<br />
+[387. First Unique Character in a String (Easy)](./301-400/387_First_Unique_Character_in_a_String.md)<br />
 
 ### Heap
 [23. Merge k Sorted Lists (Hard)](./1-100/23_Merge_k_Sorted_Lists.md)<br />
 [347. Top K Frequent Elements (Medium)](./301-400/347_Top_K_Frequent_Elements.md)<br />
+[373. Find K Pairs with Smallest Sums (Medium)](./301-400/373_Find_K_Pairs_with_Smallest_Sums.md)<br />
 
 ### Linked List
 [2. Add Two Numbers (Medium)](./1-100/2_Add_Two_Numbers.md)<br />
@@ -117,6 +119,7 @@
 [5. Longest Palindromic Substring (Medium)](./1-100/5_Longest_Palindromic_Substring.md)<br />
 [6. ZigZag Conversion (Medium)](./1-100/6_ZigZag_Conversion.md)<br />
 [151. Reverse Words in a String (Medium)](./101-200/151_Reverse_Words_in_a_String.md)<br />
+[394. Decode String (Medium)](./301-400/394_Decode_String.md)<br />
 [722. Remove Comments (Medium)](./701-800/722_Remove_Comments.md)<br />
 
 ### Tree
