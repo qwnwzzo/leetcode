@@ -14,6 +14,7 @@
 ### BFS
 [127. Word Ladder (Medium)](./101-200/127_Word_Ladder.md)<br />
 [310. Minimum Height Trees (Medium)](./301-400/310_Minimum_Height_Trees.md)<br />
+[429. N-ary Tree Level Order Traversal (Medium)](./401-500/429_N-ary_Tree_Level_Order_Traversal.md)<br />
 [1161. Maximum Level Sum of a Binary Tree (Medium)](./1101-1200/1161_Maximum_Level_Sum_of_a_Binary_Tree.md)<br />
 [1162. As Far from Land as Possible (Medium)](./1101-1200/1162_As_Far_from_Land_as_Possible.md)
 
@@ -84,6 +85,7 @@
 [49. Group Anagrams (Medium)](./1-100/49_Group_Anagrams.md)<br />
 [350. Intersection of Two Arrays II (Easy)](./301-400/350_Intersection_of_Two_Arrays_II.md)<br />
 [387. First Unique Character in a String (Easy)](./301-400/387_First_Unique_Character_in_a_String.md)<br />
+[409. Longest Palindrome (Easy)](./401-500/409_Longest_Palindrome.md)<br />
 
 ### Heap
 [23. Merge k Sorted Lists (Hard)](./1-100/23_Merge_k_Sorted_Lists.md)<br />
@@ -140,6 +142,7 @@
 [235. Lowest Common Ancestor of a Binary Search Tree (Easy)](201-300/235_Lowest_Common_Ancestor_of_a_Binary_Search_Tree.md)<br />
 [236. Lowest Common Ancestor of a Binary Tree (Mdium)](./201-300/236_Lowest_Common_Ancestor_of_a_Binary_Tree.md)<br />
 [257. Binary Tree Paths (Easy)](./201-300/257_Binary_Tree_Paths.md)<br />
+[404. Sum of Left Leaves (Easy)](./401-500/404_Sum_of_Left_Leaves.md)<br />
 [450. Delete Node in a BST (Medium)](./401-500/450_Delete_Node_in_a_BST.md)<br />
 
 ### Two Pointers
@@ -152,6 +155,7 @@
 [209. Minimum Size Subarray Sum (Medum)](./201-300/209_Minimum_Size_Subarray_Sum.md)<br />
 [228. Summary Ranges (Medium)](./201-300/228_Summary_Ranges.md)<br />
 [283. Move Zeroes (Easy)](./201-300/283_Move_Zeroes.md)<br />
+[424. Longest Repeating Character Replacement (Medium)](./401-500/424_Longest_Repeating_Character_Replacement.md)<br />
 
 ### Union Find
 [721. Accounts Merge (Medium)](./701-800/721_Accounts_Merge.md)<br />
