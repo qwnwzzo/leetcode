@@ -112,6 +112,7 @@
 [189. Rotate Array (Easy)](./101-200/189_Rotate_Array.md)<br />
 [258. Add Digits (Easy)](./201-300/258_Add_Digits.md)<br />
 [349. Intersection of Two Arrays (Easy)](./301-400/349_Intersection_of_Two_Arrays.md)<br />
+[448. Find All Numbers Disappeared in an Array (Easy)](./401-500/448_Find_All_Numbers_Disappeared_in_an_Array.md)<br />
 
 ### Stack
 [20. Valid Parentheses (Simple)](./1-100/20_Valid_Parentheses.md)<br />
