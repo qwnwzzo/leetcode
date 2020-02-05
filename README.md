@@ -64,7 +64,8 @@
 [300. Longest Increasing Subsequence (Medium)](./201-300/300_Longest_Increasing_Subsequence.md)<br />
 [303. Range Sum Query - Immutable (Easy)](./301-400/303_Range_Sum_Query.md)<br />
 [357. Count Numbers with Unique Digits (Medium)](./301-400/357_Count_Numbers_with_Unique_Digits.md)<br />
-[1143. Longest Common Subsequence (Medium)](./1101-1200/1143_Longest_Common_Subsequence.md)
+[516. Longest Palindromic Subsequence (Medium)](./501-600/516_Longest_Palindromic_Subsequence.md)<br />
+[1143. Longest Common Subsequence (Medium)](./1101-1200/1143_Longest_Common_Subsequence.md)<br />
 
 ### Graph
 [133. Clone Graph (Medium)](./101-200/133_Clone_Graph.md)<br />
@@ -124,6 +125,7 @@
 [6. ZigZag Conversion (Medium)](./1-100/6_ZigZag_Conversion.md)<br />
 [151. Reverse Words in a String (Medium)](./101-200/151_Reverse_Words_in_a_String.md)<br />
 [394. Decode String (Medium)](./301-400/394_Decode_String.md)<br />
+[520. Detect Capital (Easy)](./501-600/520_Detect_Capital.md)<br />
 [722. Remove Comments (Medium)](./701-800/722_Remove_Comments.md)<br />
 
 ### Tree
@@ -146,6 +148,10 @@
 [257. Binary Tree Paths (Easy)](./201-300/257_Binary_Tree_Paths.md)<br />
 [404. Sum of Left Leaves (Easy)](./401-500/404_Sum_of_Left_Leaves.md)<br />
 [450. Delete Node in a BST (Medium)](./401-500/450_Delete_Node_in_a_BST.md)<br />
+[508. Most Frequent Subtree Sum (Medium)](./501-600/508_Most_Frequent_Subtree_Sum.md)<br />
+[513. Find Bottom Left Tree Value (Medium)](./501-600/513_Find_Bottom_Left_Tree_Value.md)<br />
+[515. Find Largest Value in Each Tree Row (Medium)](./501-600/515_Find_Largest_Value_in_Each_Tree_Row.md)<br />
+[543. Diameter of Binary Tree (Easy)](./501-600/543_Diameter_of_Binary_Tree.md)<br />
 
 ### Two Pointers
 [3. Longest Substring Without Repeating Characters (Medium)](./1-100/3_Longest_Substring_Without_Repeating_Characters.md)<br />
@@ -161,5 +167,6 @@
 [438. Find All Anagrams in a String (Medium)](./401-500/438_Find_All_Anagrams_in_a_String.md)<br />
 
 ### Union Find
+[547. Friend Circles (Medium)](./501-600/547_Friend_Circles.md)<br />
 [721. Accounts Merge (Medium)](./701-800/721_Accounts_Merge.md)<br />
 [737. Sentence Similarity II (Medium)](./701-800/737_Sentence_Similarity_II.md)
