@@ -10,6 +10,7 @@
 [90. Subsets II (Medium)](./1-100/90_Subsets_II.md)<br />
 [131. Palindrome Partitioning (Medium)](./101-200/131_Palindrome_Partitioning.md)<br />
 [216. Combination Sum III (Medium)](./201-300/216_Combination_Sum_III.md)<br />
+[491. Increasing Subsequences (Medium)](./401-500/491_Increasing_Subsequences.md)<br />
 
 ### BFS
 [127. Word Ladder (Medium)](./101-200/127_Word_Ladder.md)<br />
@@ -157,6 +158,7 @@
 [228. Summary Ranges (Medium)](./201-300/228_Summary_Ranges.md)<br />
 [283. Move Zeroes (Easy)](./201-300/283_Move_Zeroes.md)<br />
 [424. Longest Repeating Character Replacement (Medium)](./401-500/424_Longest_Repeating_Character_Replacement.md)<br />
+[438. Find All Anagrams in a String (Medium)](./401-500/438_Find_All_Anagrams_in_a_String.md)<br />
 
 ### Union Find
 [721. Accounts Merge (Medium)](./701-800/721_Accounts_Merge.md)<br />

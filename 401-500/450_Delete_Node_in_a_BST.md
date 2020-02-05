@@ -49,17 +49,19 @@ Another valid answer is [5,2,6,null,4,null,7].
 
 class Solution(object):
     def get_min_node(self, node):
-        while node.left is not None:
-            node = node.left
-        return node
-    
+        if node.left is None:
+            return node
+        
+        return self.get_min_node(node.left)
+
     def delete_min_node(self, node):
         if node.left is None:
             return node.right
         
         node.left = self.delete_min_node(node.left)
+
         return node
-        
+
     def deleteNode(self, root, key):
         """
         :type root: TreeNode
@@ -69,17 +71,17 @@ class Solution(object):
         if root is None:
             return None
         
-        if key < root.val:
-            root.left = self.deleteNode(root.left, key)
+        if root.val < key:
+            root.right = self.deleteNode(root.right, key)
             return root
         
-        if key > root.val:
-            root.right = self.deleteNode(root.right, key)
+        if root.val > key:
+            root.left = self.deleteNode(root.left, key)
             return root
         
         if root.left is None:
             return root.right
-        
+
         if root.right is None:
             return root.left
         
@@ -87,6 +89,6 @@ class Solution(object):
         copy_min_node = TreeNode(min_node.val)
         copy_min_node.left = root.left
         copy_min_node.right = self.delete_min_node(root.right)
-        
+
         return copy_min_node
 ```
