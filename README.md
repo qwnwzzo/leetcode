@@ -35,6 +35,7 @@
 [146. LRU Cache (Medium)](./101-200/146_LRU_Cache.md)<br />
 [155. Min Stack (Easy)](./101-200/155_Min_Stack.md)<br />
 [173. Binary Search Tree Iterator (Medium)](./101-200/173_Binary_Search_Tree_Iterator.md)<br />
+[208. Implement Trie (Prefix Tree) (Medium)](./201-300/208_Implement_Trie.md)<br />
 [225. Implement Stack using Queues (Easy)](./201-300/225_Implement_Stack_using_Queues.md)<br />
 
 ### DFS
@@ -64,7 +65,6 @@
 [300. Longest Increasing Subsequence (Medium)](./201-300/300_Longest_Increasing_Subsequence.md)<br />
 [303. Range Sum Query - Immutable (Easy)](./301-400/303_Range_Sum_Query.md)<br />
 [357. Count Numbers with Unique Digits (Medium)](./301-400/357_Count_Numbers_with_Unique_Digits.md)<br />
-[416. Partition Equal Subset Sum (Medium)](./401-500/416_Partition_Equal_Subset_Sum.md)<br />
 [516. Longest Palindromic Subsequence (Medium)](./501-600/516_Longest_Palindromic_Subsequence.md)<br />
 [1143. Longest Common Subsequence (Medium)](./1101-1200/1143_Longest_Common_Subsequence.md)<br />
 
@@ -94,6 +94,10 @@
 [23. Merge k Sorted Lists (Hard)](./1-100/23_Merge_k_Sorted_Lists.md)<br />
 [347. Top K Frequent Elements (Medium)](./301-400/347_Top_K_Frequent_Elements.md)<br />
 [373. Find K Pairs with Smallest Sums (Medium)](./301-400/373_Find_K_Pairs_with_Smallest_Sums.md)<br />
+
+### Knapsack
+[416. Partition Equal Subset Sum (Medium)](./401-500/416_Partition_Equal_Subset_Sum.md)<br />
+[474. Ones and Zeroes (Medium)](./401-500/474_Ones_and_Zeroes.md)<br />
 
 ### Linked List
 [2. Add Two Numbers (Medium)](./1-100/2_Add_Two_Numbers.md)<br />
