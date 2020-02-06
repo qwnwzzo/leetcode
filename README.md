@@ -36,6 +36,7 @@
 [155. Min Stack (Easy)](./101-200/155_Min_Stack.md)<br />
 [173. Binary Search Tree Iterator (Medium)](./101-200/173_Binary_Search_Tree_Iterator.md)<br />
 [208. Implement Trie (Prefix Tree) (Medium)](./201-300/208_Implement_Trie.md)<br />
+[211. Add and Search Word - Data structure design (Medium)](./201-300/211_Add_and_Search_Word.md)<br />
 [225. Implement Stack using Queues (Easy)](./201-300/225_Implement_Stack_using_Queues.md)<br />
 
 ### DFS
@@ -157,6 +158,8 @@
 [513. Find Bottom Left Tree Value (Medium)](./501-600/513_Find_Bottom_Left_Tree_Value.md)<br />
 [515. Find Largest Value in Each Tree Row (Medium)](./501-600/515_Find_Largest_Value_in_Each_Tree_Row.md)<br />
 [543. Diameter of Binary Tree (Easy)](./501-600/543_Diameter_of_Binary_Tree.md)<br />
+[648. Replace Words (Medium)](./601-700/648_Replace_Words.md)<br />
+[676. Implement Magic Dictionary (Medium)](./601-700/676_Implement_Magic_Dictionary.md)<br />
 
 ### Two Pointers
 [3. Longest Substring Without Repeating Characters (Medium)](./1-100/3_Longest_Substring_Without_Repeating_Characters.md)<br />
