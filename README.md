@@ -114,6 +114,7 @@
 
 ### Math
 [9. Palindrome Number (Medium)](./1-100/9_Palindrome_Number.md)<br />
+[41. First Missing Positive (Hard)](./1-100/41_First_Missing_Positive.md)<br />
 [48. Rotate Image (Medium)](./1-100/48_Rotate_Image.md)<br />
 [118. Pascal's Triangle (Easy)](./101-200/118_Pascal's_Triangle.md)<br />
 [119. Pascal's Triangle II (Easy)](./101-200/119_Pascal's_Triangle_II.md)<br />
