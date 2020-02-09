@@ -156,6 +156,7 @@
 [257. Binary Tree Paths (Easy)](./201-300/257_Binary_Tree_Paths.md)<br />
 [404. Sum of Left Leaves (Easy)](./401-500/404_Sum_of_Left_Leaves.md)<br />
 [450. Delete Node in a BST (Medium)](./401-500/450_Delete_Node_in_a_BST.md)<br />
+[501. Find Mode in Binary Search Tree (Easy)](./501-600/501_Find_Mode_in_Binary_Search_Tree.md)<br />
 [508. Most Frequent Subtree Sum (Medium)](./501-600/508_Most_Frequent_Subtree_Sum.md)<br />
 [513. Find Bottom Left Tree Value (Medium)](./501-600/513_Find_Bottom_Left_Tree_Value.md)<br />
 [515. Find Largest Value in Each Tree Row (Medium)](./501-600/515_Find_Largest_Value_in_Each_Tree_Row.md)<br />

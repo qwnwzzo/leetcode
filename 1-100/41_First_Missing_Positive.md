@@ -23,6 +23,11 @@ Output: 1
 **Note:**
 Your algorithm should run in O(n) time and uses constant extra space.
 
+**Idea**
+```
+抽屉原理 + 桶排序
+```
+
 **Solution**
 ```Python
 class Solution(object):

@@ -15,6 +15,11 @@ Output:
 [2,3]
 ```
 
+**Idea**
+```
+抽屉原理 + 桶排序
+```
+
 **Solution**
 ```
 class Solution(object):
