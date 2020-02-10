@@ -160,6 +160,7 @@
 [508. Most Frequent Subtree Sum (Medium)](./501-600/508_Most_Frequent_Subtree_Sum.md)<br />
 [513. Find Bottom Left Tree Value (Medium)](./501-600/513_Find_Bottom_Left_Tree_Value.md)<br />
 [515. Find Largest Value in Each Tree Row (Medium)](./501-600/515_Find_Largest_Value_in_Each_Tree_Row.md)<br />
+[538. Convert BST to Greater Tree (Easy)](./501-600/538_Convert_BST_to_Greater_Tree.md)<br />
 [543. Diameter of Binary Tree (Easy)](./501-600/543_Diameter_of_Binary_Tree.md)<br />
 [648. Replace Words (Medium)](./601-700/648_Replace_Words.md)<br />
 [676. Implement Magic Dictionary (Medium)](./601-700/676_Implement_Magic_Dictionary.md)<br />
