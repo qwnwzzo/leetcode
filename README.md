@@ -16,6 +16,7 @@
 [127. Word Ladder (Medium)](./101-200/127_Word_Ladder.md)<br />
 [310. Minimum Height Trees (Medium)](./301-400/310_Minimum_Height_Trees.md)<br />
 [429. N-ary Tree Level Order Traversal (Medium)](./401-500/429_N-ary_Tree_Level_Order_Traversal.md)<br />
+[542. 01 Matrix (Medium)](./501-600/542_01_Matrix.md)<br />
 [1161. Maximum Level Sum of a Binary Tree (Medium)](./1101-1200/1161_Maximum_Level_Sum_of_a_Binary_Tree.md)<br />
 [1162. As Far from Land as Possible (Medium)](./1101-1200/1162_As_Far_from_Land_as_Possible.md)
 
@@ -25,6 +26,7 @@
 [35. Search Insert Position (Medium)](./1-100/35_Search_Insert_Position.md)<br />
 [153. Find Minimum in Rotated Sorted Array (Medium)](./101-200/153_Find_Minimum_in_Rotated_Sorted_Array.md)<br />
 [378. Kth Smallest Element in a Sorted Matrix (Medium)](./301-400/378_Kth_Smallest_Element_in_a_Sorted_Matrix.md)<br />
+[540. Single Element in a Sorted Array (Medium)](./501-600/540_Single_Element_in_a_Sorted_Array.md)<br />
 
 ### Bit
 [136. Single Number (Easy)](./101-200/136_Single_Number.md)<br />
@@ -90,6 +92,7 @@
 [350. Intersection of Two Arrays II (Easy)](./301-400/350_Intersection_of_Two_Arrays_II.md)<br />
 [387. First Unique Character in a String (Easy)](./301-400/387_First_Unique_Character_in_a_String.md)<br />
 [409. Longest Palindrome (Easy)](./401-500/409_Longest_Palindrome.md)<br />
+[554. Brick Wall (Medium)](./501-600/554_Brick_Wall.md)<br />
 
 ### Heap
 [23. Merge k Sorted Lists (Hard)](./1-100/23_Merge_k_Sorted_Lists.md)<br />
