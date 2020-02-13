@@ -81,7 +81,8 @@
 [785. Is Graph Bipartite? (Medium)](./701-800/785_Is_Graph_Bipartite?.md)<br />
 [990. Satisfiability of Equality Equations (Medium)](./901-1000/990_Satisfiability_of_Equality_Equations.md)<br />
 [997. Find the Town Judge (Easy)](./901-1000/997_Find_the_Town_Judge.md)<br />
-[1042. Flower Planting With No Adjacent (Easy)](./1001-1100/1042_Flower_Planting_With_NoAdjacent.md)
+[1042. Flower Planting With No Adjacent (Easy)](./1001-1100/1042_Flower_Planting_With_NoAdjacent.md)<br />
+[565. Array Nesting (Medium)](./501-600/565_Array_Nesting.md)<br />
 
 ### Greedy
 [55. Jump Game (Medium)](./1-100/55_Jump_Game.md)
@@ -127,6 +128,7 @@
 [349. Intersection of Two Arrays (Easy)](./301-400/349_Intersection_of_Two_Arrays.md)<br />
 [442. Find All Duplicates in an Array (Medium)](./401-500/442_Find_All_Duplicates_in_an_Array.md)<br />
 [448. Find All Numbers Disappeared in an Array (Easy)](./401-500/448_Find_All_Numbers_Disappeared_in_an_Array.md)<br />
+[561. Array Partition I (Easy)](./501-600/561_Array_Partition_I.md)<br />
 
 ### Stack
 [20. Valid Parentheses (Simple)](./1-100/20_Valid_Parentheses.md)<br />
@@ -181,6 +183,7 @@
 [283. Move Zeroes (Easy)](./201-300/283_Move_Zeroes.md)<br />
 [424. Longest Repeating Character Replacement (Medium)](./401-500/424_Longest_Repeating_Character_Replacement.md)<br />
 [438. Find All Anagrams in a String (Medium)](./401-500/438_Find_All_Anagrams_in_a_String.md)<br />
+[567. Permutation in String (Medium)](./501-600/567_Permutation_in_String.md)<br />
 
 ### Union Find
 [547. Friend Circles (Medium)](./501-600/547_Friend_Circles.md)<br />
