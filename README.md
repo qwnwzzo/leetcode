@@ -69,6 +69,7 @@
 [303. Range Sum Query - Immutable (Easy)](./301-400/303_Range_Sum_Query.md)<br />
 [357. Count Numbers with Unique Digits (Medium)](./301-400/357_Count_Numbers_with_Unique_Digits.md)<br />
 [516. Longest Palindromic Subsequence (Medium)](./501-600/516_Longest_Palindromic_Subsequence.md)<br />
+[583. Delete Operation for Two Strings (Medium)](./501-600/583_Delete_Operation_for_Two_Strings.md)<br />
 [1143. Longest Common Subsequence (Medium)](./1101-1200/1143_Longest_Common_Subsequence.md)<br />
 
 ### Graph
