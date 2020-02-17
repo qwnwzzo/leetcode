@@ -130,6 +130,7 @@
 [442. Find All Duplicates in an Array (Medium)](./401-500/442_Find_All_Duplicates_in_an_Array.md)<br />
 [448. Find All Numbers Disappeared in an Array (Easy)](./401-500/448_Find_All_Numbers_Disappeared_in_an_Array.md)<br />
 [561. Array Partition I (Easy)](./501-600/561_Array_Partition_I.md)<br />
+[593. Valid Square (Medium)](./501-600/593_Valid_Square.md)<br />
 
 ### Stack
 [20. Valid Parentheses (Simple)](./1-100/20_Valid_Parentheses.md)<br />
