@@ -171,6 +171,7 @@
 [538. Convert BST to Greater Tree (Easy)](./501-600/538_Convert_BST_to_Greater_Tree.md)<br />
 [543. Diameter of Binary Tree (Easy)](./501-600/543_Diameter_of_Binary_Tree.md)<br />
 [572. Subtree of Another Tree (Easy)](./501-600/572_Subtree_of_Another_Tree.md)<br />
+[606. Construct String from Binary Tree (Easy)](./601-700/606_Construct_String_from_Binary_Tree.md)<br />
 [648. Replace Words (Medium)](./601-700/648_Replace_Words.md)<br />
 [676. Implement Magic Dictionary (Medium)](./601-700/676_Implement_Magic_Dictionary.md)<br />
 
