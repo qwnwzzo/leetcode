@@ -40,6 +40,7 @@
 [208. Implement Trie (Prefix Tree) (Medium)](./201-300/208_Implement_Trie.md)<br />
 [211. Add and Search Word - Data structure design (Medium)](./201-300/211_Add_and_Search_Word.md)<br />
 [225. Implement Stack using Queues (Easy)](./201-300/225_Implement_Stack_using_Queues.md)<br />
+[622. Design Circular Queue (Medium)](./601-700/622_Design_Circular_Queue.md)<br />
 
 ### DFS
 [79. Word Search (medium)](./1-100/79_Word_Search.md)<br />
