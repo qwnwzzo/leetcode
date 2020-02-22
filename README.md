@@ -135,6 +135,7 @@
 [561. Array Partition I (Easy)](./501-600/561_Array_Partition_I.md)<br />
 [593. Valid Square (Medium)](./501-600/593_Valid_Square.md)<br />
 [621. Task Scheduler (Medium)](./601-700/621_Task_Scheduler.md)<br />
+[650. 2 Keys Keyboard (Medium)](./601-700/650_2_Keys_Keyboard.md)<br />
 
 ### Stack
 [20. Valid Parentheses (Simple)](./1-100/20_Valid_Parentheses.md)<br />
