@@ -25,6 +25,7 @@
 [34. Find First and Last Position of Element in Sorted Array (Medium)](./1-100/34_Find_First_and_Last_Position_of_Element_in_Sorted_Array.md)<br />
 [35. Search Insert Position (Medium)](./1-100/35_Search_Insert_Position.md)<br />
 [153. Find Minimum in Rotated Sorted Array (Medium)](./101-200/153_Find_Minimum_in_Rotated_Sorted_Array.md)<br />
+[154. Find Minimum in Rotated Sorted Array II (Hard)](./101-200/154_Find_Minimum_in_Rotated_Sorted_Array_II.md)<br />
 [378. Kth Smallest Element in a Sorted Matrix (Medium)](./301-400/378_Kth_Smallest_Element_in_a_Sorted_Matrix.md)<br />
 [540. Single Element in a Sorted Array (Medium)](./501-600/540_Single_Element_in_a_Sorted_Array.md)<br />
 [658. Find K Closest Elements (Medium)](./601-700/658_Find_K_Closest_Elements.md)<br />
@@ -73,6 +74,7 @@
 [357. Count Numbers with Unique Digits (Medium)](./301-400/357_Count_Numbers_with_Unique_Digits.md)<br />
 [516. Longest Palindromic Subsequence (Medium)](./501-600/516_Longest_Palindromic_Subsequence.md)<br />
 [583. Delete Operation for Two Strings (Medium)](./501-600/583_Delete_Operation_for_Two_Strings.md)<br />
+[673. Number of Longest Increasing Subsequence (Medium)](./601-700/673_Number_of_Longest_Increasing_Subsequence.md)<br />
 [1143. Longest Common Subsequence (Medium)](./1101-1200/1143_Longest_Common_Subsequence.md)<br />
 
 ### Graph
@@ -178,6 +180,7 @@
 [572. Subtree of Another Tree (Easy)](./501-600/572_Subtree_of_Another_Tree.md)<br />
 [606. Construct String from Binary Tree (Easy)](./601-700/606_Construct_String_from_Binary_Tree.md)<br />
 [648. Replace Words (Medium)](./601-700/648_Replace_Words.md)<br />
+[662. Maximum Width of Binary Tree (Medium)](./601-700/662_Maximum_Width_of_Binary_Tree.md)<br />
 [676. Implement Magic Dictionary (Medium)](./601-700/676_Implement_Magic_Dictionary.md)<br />
 
 ### Two Pointers
@@ -193,6 +196,7 @@
 [424. Longest Repeating Character Replacement (Medium)](./401-500/424_Longest_Repeating_Character_Replacement.md)<br />
 [438. Find All Anagrams in a String (Medium)](./401-500/438_Find_All_Anagrams_in_a_String.md)<br />
 [567. Permutation in String (Medium)](./501-600/567_Permutation_in_String.md)<br />
+[674. Longest Continuous Increasing Subsequence (Easy)](./601-700/674_Longest_Continuous_Increasing_Subsequence.md)<br />
 
 ### Union Find
 [547. Friend Circles (Medium)](./501-600/547_Friend_Circles.md)<br />
