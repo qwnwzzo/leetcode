@@ -83,7 +83,6 @@
 [210. Course Schedule II (Medium)](./201-300/210_Course_Schedule_II.md)<br />
 [310. Minimum Height Trees (Medium)](./301-400/310_Minimum_Height_Trees.md)<br />
 [323. Number of Connected Components in an Undirected Graph (Medium)](301-400/323_Number_of_Connected_Components_in_an_Undirected_Graph.md)<br />
-[684. Redundant Connection (Medium)](./601-700/684_Redundant_Connection.md)<br />
 [785. Is Graph Bipartite? (Medium)](./701-800/785_Is_Graph_Bipartite?.md)<br />
 [990. Satisfiability of Equality Equations (Medium)](./901-1000/990_Satisfiability_of_Equality_Equations.md)<br />
 [997. Find the Town Judge (Easy)](./901-1000/997_Find_the_Town_Judge.md)<br />
@@ -200,5 +199,6 @@
 
 ### Union Find
 [547. Friend Circles (Medium)](./501-600/547_Friend_Circles.md)<br />
+[684. Redundant Connection (Medium)](./601-700/684_Redundant_Connection.md)<br />
 [721. Accounts Merge (Medium)](./701-800/721_Accounts_Merge.md)<br />
 [737. Sentence Similarity II (Medium)](./701-800/737_Sentence_Similarity_II.md)
