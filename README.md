@@ -105,6 +105,7 @@
 [23. Merge k Sorted Lists (Hard)](./1-100/23_Merge_k_Sorted_Lists.md)<br />
 [347. Top K Frequent Elements (Medium)](./301-400/347_Top_K_Frequent_Elements.md)<br />
 [373. Find K Pairs with Smallest Sums (Medium)](./301-400/373_Find_K_Pairs_with_Smallest_Sums.md)<br />
+[692. Top K Frequent Words (Medium)](./601-700/692_Top_K_Frequent_Words.md)<br />
 
 ### Knapsack
 [416. Partition Equal Subset Sum (Medium)](./401-500/416_Partition_Equal_Subset_Sum.md)<br />
@@ -181,6 +182,7 @@
 [648. Replace Words (Medium)](./601-700/648_Replace_Words.md)<br />
 [662. Maximum Width of Binary Tree (Medium)](./601-700/662_Maximum_Width_of_Binary_Tree.md)<br />
 [676. Implement Magic Dictionary (Medium)](./601-700/676_Implement_Magic_Dictionary.md)<br />
+[687. Longest Univalue Path (Easy)](./601-700/687_Longest_Univalue_Path.md)<br />
 
 ### Two Pointers
 [3. Longest Substring Without Repeating Characters (Medium)](./1-100/3_Longest_Substring_Without_Repeating_Characters.md)<br />
