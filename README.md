@@ -53,6 +53,7 @@
 [222. Count Complete Tree Nodes (Medium)](./201-300/222_Count_Complete_Tree_Nodes.md)<br />
 [241. Different Ways to Add Parentheses (Medium)](./201-300/241_Different_Ways_to_Add_Parentheses.md)<br />
 [323. Number of Connected Components in an Undirected Graph (Medium)](301-400/323_Number_of_Connected_Components_in_an_Undirected_Graph.md)<br />
+[695. Max Area of Island (Medium)](./601-700/695_Max_Area_of_Island.md)<br />
 
 ### DP
 [53. Maximum Subarray (Easy)](./1-100/53_Maximum_Subarray.md)<br />
@@ -165,6 +166,7 @@
 [114. Flatten Binary Tree to Linked List (Medium)](./101-200/114_Flatten_Binary_Tree_to_Linked_List.md)<br />
 [116. Populating Next Right Pointers in Each Node (Medium)](./101-200/116_Populating_Next_Right_Pointers_in_Each_Node.md)<br />
 [129. Sum Root to Leaf Numbers (Medium)](./101-200/129_Sum_Root_to_Leaf_Numbers.md)<br />
+[160. Intersection of Two Linked Lists (Easy)](./101-200/160_Intersection_of_Two_Linked_Lists.md)<br />
 [226. Invert Binary Tree (Easy)](./201-300/226_Invert_Binary_Tree.md)<br />
 [235. Lowest Common Ancestor of a Binary Search Tree (Easy)](201-300/235_Lowest_Common_Ancestor_of_a_Binary_Search_Tree.md)<br />
 [236. Lowest Common Ancestor of a Binary Tree (Mdium)](./201-300/236_Lowest_Common_Ancestor_of_a_Binary_Tree.md)<br />
