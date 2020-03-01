@@ -44,6 +44,8 @@
 [225. Implement Stack using Queues (Easy)](./201-300/225_Implement_Stack_using_Queues.md)<br />
 [622. Design Circular Queue (Medium)](./601-700/622_Design_Circular_Queue.md)<br />
 [641. Design Circular Deque (Medium)](./601-700/641_Design_Circular_Deque.md)<br />
+[705. Design HashSet (Easy)](./701-800/705_Design_HashSet.md)<br />
+[706. Design HashMap (Easy)](./701-800/706_Design_HashMap.md)<br />
 
 ### DFS
 [79. Word Search (medium)](./1-100/79_Word_Search.md)<br />
@@ -76,6 +78,8 @@
 [516. Longest Palindromic Subsequence (Medium)](./501-600/516_Longest_Palindromic_Subsequence.md)<br />
 [583. Delete Operation for Two Strings (Medium)](./501-600/583_Delete_Operation_for_Two_Strings.md)<br />
 [673. Number of Longest Increasing Subsequence (Medium)](./601-700/673_Number_of_Longest_Increasing_Subsequence.md)<br />
+[718. Maximum Length of Repeated Subarray (Medium)](./701-800/718_Maximum_Length_of_Repeated_Subarray.md)<br />
+[746. Min Cost Climbing Stairs (Easy)](./701-800/746_Min_Cost_Climbing_Stairs.md)<br />
 [1143. Longest Common Subsequence (Medium)](./1101-1200/1143_Longest_Common_Subsequence.md)<br />
 
 ### Graph
@@ -185,6 +189,8 @@
 [662. Maximum Width of Binary Tree (Medium)](./601-700/662_Maximum_Width_of_Binary_Tree.md)<br />
 [676. Implement Magic Dictionary (Medium)](./601-700/676_Implement_Magic_Dictionary.md)<br />
 [687. Longest Univalue Path (Easy)](./601-700/687_Longest_Univalue_Path.md)<br />
+[700. Search in a Binary Search Tree (Easy)](./601-700/700_Search_in_a_Binary_Search_Tree.md)<br />
+[701. Insert into a Binary Search Tree (Medium)](./701-800/701_Insert_into_a_Binary_Search_Tree.md)<br />
 
 ### Two Pointers
 [3. Longest Substring Without Repeating Characters (Medium)](./1-100/3_Longest_Substring_Without_Repeating_Characters.md)<br />
@@ -200,6 +206,7 @@
 [438. Find All Anagrams in a String (Medium)](./401-500/438_Find_All_Anagrams_in_a_String.md)<br />
 [567. Permutation in String (Medium)](./501-600/567_Permutation_in_String.md)<br />
 [674. Longest Continuous Increasing Subsequence (Easy)](./601-700/674_Longest_Continuous_Increasing_Subsequence.md)<br />
+[697. Degree of an Array (Easy)](./601-700/697_Degree_of_an_Array.md)<br />
 
 ### Union Find
 [547. Friend Circles (Medium)](./501-600/547_Friend_Circles.md)<br />
