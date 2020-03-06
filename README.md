@@ -144,6 +144,7 @@
 [593. Valid Square (Medium)](./501-600/593_Valid_Square.md)<br />
 [621. Task Scheduler (Medium)](./601-700/621_Task_Scheduler.md)<br />
 [650. 2 Keys Keyboard (Medium)](./601-700/650_2_Keys_Keyboard.md)<br />
+[747. Largest Number At Least Twice of Others (Easy)](./701-800/747_Largest_Number_At_Least_Twice_of_Others.md)<br />
 
 ### Stack
 [20. Valid Parentheses (Simple)](./1-100/20_Valid_Parentheses.md)<br />
@@ -192,6 +193,7 @@
 [687. Longest Univalue Path (Easy)](./601-700/687_Longest_Univalue_Path.md)<br />
 [700. Search in a Binary Search Tree (Easy)](./601-700/700_Search_in_a_Binary_Search_Tree.md)<br />
 [701. Insert into a Binary Search Tree (Medium)](./701-800/701_Insert_into_a_Binary_Search_Tree.md)<br />
+[729. My Calendar I (Medium)](./701-800/729_My_Calendar_I.md)<br />
 
 ### Two Pointers
 [3. Longest Substring Without Repeating Characters (Medium)](./1-100/3_Longest_Substring_Without_Repeating_Characters.md)<br />
