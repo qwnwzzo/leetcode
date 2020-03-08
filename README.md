@@ -136,6 +136,7 @@
 [48. Rotate Image (Medium)](./1-100/48_Rotate_Image.md)<br />
 [118. Pascal's Triangle (Easy)](./101-200/118_Pascal's_Triangle.md)<br />
 [119. Pascal's Triangle II (Easy)](./101-200/119_Pascal's_Triangle_II.md)<br />
+[121. Best Time to Buy and Sell Stock (Easy)](./101-200/121_Best_Time_to_Buy_and_Sell_Stock.md)<br />
 [189. Rotate Array (Easy)](./101-200/189_Rotate_Array.md)<br />
 [258. Add Digits (Easy)](./201-300/258_Add_Digits.md)<br />
 [349. Intersection of Two Arrays (Easy)](./301-400/349_Intersection_of_Two_Arrays.md)<br />
