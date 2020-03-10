@@ -212,6 +212,7 @@
 [567. Permutation in String (Medium)](./501-600/567_Permutation_in_String.md)<br />
 [674. Longest Continuous Increasing Subsequence (Easy)](./601-700/674_Longest_Continuous_Increasing_Subsequence.md)<br />
 [697. Degree of an Array (Easy)](./601-700/697_Degree_of_an_Array.md)<br />
+[763. Partition Labels (Medium)](./701-800/763_Partition_Labels.md)<br />
 
 ### Union Find
 [547. Friend Circles (Medium)](./501-600/547_Friend_Circles.md)<br />
