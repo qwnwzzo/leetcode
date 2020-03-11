@@ -148,6 +148,7 @@
 [650. 2 Keys Keyboard (Medium)](./601-700/650_2_Keys_Keyboard.md)<br />
 [747. Largest Number At Least Twice of Others (Easy)](./701-800/747_Largest_Number_At_Least_Twice_of_Others.md)<br />
 [1013. Partition Array Into Three Parts With Equal Sum (Easy)](./1001-1100/1013_Partition_Array_Into_Three_Parts_With_Equal_Sum.md)<br />
+[1071. Greatest Common Divisor of Strings (Easy)](./1001-1100/1071_Greatest_Common_Divisor_of_Strings.md)<br />
 
 ### Stack
 [20. Valid Parentheses (Simple)](./1-100/20_Valid_Parentheses.md)<br />
