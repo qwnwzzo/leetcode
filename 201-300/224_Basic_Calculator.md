@@ -28,50 +28,41 @@ Output: 23
 
 **Solution**
 ```Python
+from collections import deque
+
 class Solution(object):
+    def helper(self, arr):
+        stack = []
+        num = 0
+        sign = "+"
+
+        while len(arr) > 0:
+            c = arr.popleft()
+            if c.isdigit():
+                num = num * 10 + int(c)
+            
+            if c == "(":
+                num = self.helper(arr)
+            
+            if (not c.isdigit() and c != " ") or len(arr) == 0:
+                if sign == "+":
+                    stack.append(num)
+                elif sign == "-":
+                    stack.append(-num)
+                
+                num = 0
+                sign = c
+            
+            if c == ")":
+                break
+        
+        return sum(stack)
+
     def calculate(self, s):
         """
         :type s: str
         :rtype: int
         """
-        stack = []
-
-        for c in s:
-            if c != " ":
-                if c.isdigit():
-                    if len(stack) == 0 or type(stack[-1]) != int:
-                        stack.append(int(c))
-                    else:
-                        stack[-1] = stack[-1] * 10 + int(c)
-                elif c == "+" or c == "-" or c == "(":
-                    stack.append(c)
-                elif c == ")":
-                    temp = 0
-                    cur = stack.pop()
-                    op = stack.pop()
-
-                    while op != '(':
-                        if op == "+":
-                            temp += cur
-                        else:
-                            temp += cur * -1
-                        
-                        cur = stack.pop()
-                        op = stack.pop()
-                    
-                    temp += cur
-                    stack.append(temp)
-        
-        ans = 0
-        while len(stack) > 1:
-            cur = stack.pop()
-            op = stack.pop()
-            if op == "+":
-                ans += cur
-            else:
-                ans += cur * -1
-        
-        ans += stack.pop()
-
-        return ans
+        arr = deque(list(s))
+        return self.helper(arr)
 ```
