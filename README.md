@@ -57,6 +57,8 @@
 [323. Number of Connected Components in an Undirected Graph (Medium)](301-400/323_Number_of_Connected_Components_in_an_Undirected_Graph.md)<br />
 [695. Max Area of Island (Medium)](./601-700/695_Max_Area_of_Island.md)<br />
 [733. Flood Fill (Easy)](./701-800/733_Flood_Fill.md)<br />
+[784. Letter Case Permutation (Easy)](./701-800/784_Letter_Case_Permutation.md)<br />
+[827. Making A Large Island (Hard)](./801-900/827_Making_A_Large_Island.md)<br />
 
 ### DP
 [53. Maximum Subarray (Easy)](./1-100/53_Maximum_Subarray.md)<br />
@@ -90,11 +92,11 @@
 [210. Course Schedule II (Medium)](./201-300/210_Course_Schedule_II.md)<br />
 [310. Minimum Height Trees (Medium)](./301-400/310_Minimum_Height_Trees.md)<br />
 [323. Number of Connected Components in an Undirected Graph (Medium)](301-400/323_Number_of_Connected_Components_in_an_Undirected_Graph.md)<br />
+[565. Array Nesting (Medium)](./501-600/565_Array_Nesting.md)<br />
 [785. Is Graph Bipartite? (Medium)](./701-800/785_Is_Graph_Bipartite?.md)<br />
 [990. Satisfiability of Equality Equations (Medium)](./901-1000/990_Satisfiability_of_Equality_Equations.md)<br />
 [997. Find the Town Judge (Easy)](./901-1000/997_Find_the_Town_Judge.md)<br />
 [1042. Flower Planting With No Adjacent (Easy)](./1001-1100/1042_Flower_Planting_With_NoAdjacent.md)<br />
-[565. Array Nesting (Medium)](./501-600/565_Array_Nesting.md)<br />
 
 ### Greedy
 [55. Jump Game (Medium)](./1-100/55_Jump_Game.md)
@@ -148,6 +150,7 @@
 [650. 2 Keys Keyboard (Medium)](./601-700/650_2_Keys_Keyboard.md)<br />
 [731. My Calendar II (Medium)](./701-800/731_My_Calendar_II.md)<br />
 [747. Largest Number At Least Twice of Others (Easy)](./701-800/747_Largest_Number_At_Least_Twice_of_Others.md)<br />
+[849. Maximize Distance to Closest Person (Easy)](./801-900/849_Maximize_Distance_to_Closest_Person.md)<br />
 [1013. Partition Array Into Three Parts With Equal Sum (Easy)](./1001-1100/1013_Partition_Array_Into_Three_Parts_With_Equal_Sum.md)<br />
 [1071. Greatest Common Divisor of Strings (Easy)](./1001-1100/1071_Greatest_Common_Divisor_of_Strings.md)<br />
 
