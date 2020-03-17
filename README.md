@@ -29,6 +29,7 @@
 [378. Kth Smallest Element in a Sorted Matrix (Medium)](./301-400/378_Kth_Smallest_Element_in_a_Sorted_Matrix.md)<br />
 [540. Single Element in a Sorted Array (Medium)](./501-600/540_Single_Element_in_a_Sorted_Array.md)<br />
 [658. Find K Closest Elements (Medium)](./601-700/658_Find_K_Closest_Elements.md)<br />
+[875. Koko Eating Bananas (Medium)](./801-900/875_Koko_Eating_Bananas.md)<br />
 
 ### Bit
 [136. Single Number (Easy)](./101-200/136_Single_Number.md)<br />
@@ -205,6 +206,7 @@
 [700. Search in a Binary Search Tree (Easy)](./601-700/700_Search_in_a_Binary_Search_Tree.md)<br />
 [701. Insert into a Binary Search Tree (Medium)](./701-800/701_Insert_into_a_Binary_Search_Tree.md)<br />
 [729. My Calendar I (Medium)](./701-800/729_My_Calendar_I.md)<br />
+[863. All Nodes Distance K in Binary Tree (Medium)](./801-900/863_All_Nodes_Distance_K_in_Binary_Tree.md)<br />
 
 ### Two Pointers
 [3. Longest Substring Without Repeating Characters (Medium)](./1-100/3_Longest_Substring_Without_Repeating_Characters.md)<br />
