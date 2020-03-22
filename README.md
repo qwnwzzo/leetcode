@@ -155,6 +155,7 @@
 [747. Largest Number At Least Twice of Others (Easy)](./701-800/747_Largest_Number_At_Least_Twice_of_Others.md)<br />
 [836. Rectangle Overlap (Easy)](./801-900/836_Rectangle_Overlap.md)<br />
 [849. Maximize Distance to Closest Person (Easy)](./801-900/849_Maximize_Distance_to_Closest_Person.md)<br />
+[945. Minimum Increment to Make Array Unique (Medium)](./901-1000/945_Minimum_Increment_to_Make_Array_Unique.md)<br />
 [1013. Partition Array Into Three Parts With Equal Sum (Easy)](./1001-1100/1013_Partition_Array_Into_Three_Parts_With_Equal_Sum.md)<br />
 [1071. Greatest Common Divisor of Strings (Easy)](./1001-1100/1071_Greatest_Common_Divisor_of_Strings.md)<br />
 
