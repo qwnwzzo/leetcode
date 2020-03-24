@@ -156,6 +156,8 @@
 [747. Largest Number At Least Twice of Others (Easy)](./701-800/747_Largest_Number_At_Least_Twice_of_Others.md)<br />
 [836. Rectangle Overlap (Easy)](./801-900/836_Rectangle_Overlap.md)<br />
 [849. Maximize Distance to Closest Person (Easy)](./801-900/849_Maximize_Distance_to_Closest_Person.md)<br />
+[908. Smallest Range I (Easy)](./901-1000/908_Smallest_Range_I.md)<br />
+[930. Binary Subarrays With Sum (Medium)](./901-1000/930_Binary_Subarrays_With_Sum.md)<br />
 [945. Minimum Increment to Make Array Unique (Medium)](./901-1000/945_Minimum_Increment_to_Make_Array_Unique.md)<br />
 [1013. Partition Array Into Three Parts With Equal Sum (Easy)](./1001-1100/1013_Partition_Array_Into_Three_Parts_With_Equal_Sum.md)<br />
 [1071. Greatest Common Divisor of Strings (Easy)](./1001-1100/1071_Greatest_Common_Divisor_of_Strings.md)<br />
@@ -165,6 +167,7 @@
 [71. Simplify Path (Medium)](./1-100/71_Simplify_Path.md)<br />
 [224. Basic Calculator (Hard)](./201-300/224_Basic_Calculator.md)<br />
 [227. Basic Calculator II (Medium)](./201-300/227_Basic_Calculator_II.md)<br />
+[921. Minimum Add to Make Parentheses Valid (Medium)](./901-1000/921_Minimum_Add_to_Make_Parentheses_Valid.md)<br />
 
 ### String
 [5. Longest Palindromic Substring (Medium)](./1-100/5_Longest_Palindromic_Substring.md)<br />
@@ -229,8 +232,10 @@
 [674. Longest Continuous Increasing Subsequence (Easy)](./601-700/674_Longest_Continuous_Increasing_Subsequence.md)<br />
 [697. Degree of an Array (Easy)](./601-700/697_Degree_of_an_Array.md)<br />
 [763. Partition Labels (Medium)](./701-800/763_Partition_Labels.md)<br />
+[904. Fruit Into Baskets (Medium)](./901-1000/904_Fruit_Into_Baskets.md)<br />
 [915. Partition Array into Disjoint Intervals (Medium)](./901-1000/915_Partition_Array_into_Disjoint_Intervals.md)<br />
 [917. Reverse Only Letters (Easy)](./901-1000/917_Reverse_Only_Letters.md)<br />
+[925. Long Pressed Name (Easy)](./901-1000/925_Long_Pressed_Name.md)<br />
 
 ### Union Find
 [547. Friend Circles (Medium)](./501-600/547_Friend_Circles.md)<br />
