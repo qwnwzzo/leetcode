@@ -156,6 +156,7 @@
 [747. Largest Number At Least Twice of Others (Easy)](./701-800/747_Largest_Number_At_Least_Twice_of_Others.md)<br />
 [836. Rectangle Overlap (Easy)](./801-900/836_Rectangle_Overlap.md)<br />
 [849. Maximize Distance to Closest Person (Easy)](./801-900/849_Maximize_Distance_to_Closest_Person.md)<br />
+[892. Surface Area of 3D Shapes (Easy)](./801-900/892_Surface_Area_of_3D_Shapes.md)<br />
 [908. Smallest Range I (Easy)](./901-1000/908_Smallest_Range_I.md)<br />
 [930. Binary Subarrays With Sum (Medium)](./901-1000/930_Binary_Subarrays_With_Sum.md)<br />
 [945. Minimum Increment to Make Array Unique (Medium)](./901-1000/945_Minimum_Increment_to_Make_Array_Unique.md)<br />
