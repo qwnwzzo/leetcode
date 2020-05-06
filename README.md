@@ -85,6 +85,7 @@
 [673. Number of Longest Increasing Subsequence (Medium)](./601-700/673_Number_of_Longest_Increasing_Subsequence.md)<br />
 [718. Maximum Length of Repeated Subarray (Medium)](./701-800/718_Maximum_Length_of_Repeated_Subarray.md)<br />
 [746. Min Cost Climbing Stairs (Easy)](./701-800/746_Min_Cost_Climbing_Stairs.md)<br />
+[983. Minimum Cost For Tickets (Medium)](./901-1000/983_Minimum_Cost_For_Tickets.md)<br />
 [1143. Longest Common Subsequence (Medium)](./1101-1200/1143_Longest_Common_Subsequence.md)<br />
 
 ### Graph
