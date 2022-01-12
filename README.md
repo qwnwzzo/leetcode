@@ -101,7 +101,7 @@
 [1042. Flower Planting With No Adjacent (Easy)](./1001-1100/1042_Flower_Planting_With_NoAdjacent.md)<br />
 
 ### Greedy
-[55. Jump Game (Medium)](./1-100/55_Jump_Game.md)
+[55. Jump Game (Medium)](./1-100/55_Jump_Game.md)<br />
 [334. 递增的三元子序列 (Medium)](./301-400/334_递增的三元子序列.md)
 
 ### Hash Map
