@@ -25,8 +25,8 @@ Explanation: 4 isn't at least as big as twice the value of 3, so we return -1.
 - nums will have a length in the range [1, 50].
 - Every nums[i] will be an integer in the range [0, 99].
 
-**Solution**
-```Python
+**Solution 01**
+```python
 class Solution(object):
     def dominantIndex(self, nums):
         """
@@ -49,4 +49,30 @@ class Solution(object):
                     return -1
         
         return max_index
+```
+
+**Solution 02**
+```python
+class Solution(object):
+    def dominantIndex(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: int
+        """
+        n = len(nums)
+        if n == 1:
+            return 0
+        
+        largest = -1
+        sec_largest = -1
+        index = -1
+        for i in range(n):
+            if nums[i] > sec_largest and nums[i] < largest:
+                sec_largest = nums[i]
+            elif nums[i] > largest:
+                sec_largest = largest
+                largest = nums[i]
+                index = i
+        
+        return index if largest >= sec_largest * 2 else -1
 ```
