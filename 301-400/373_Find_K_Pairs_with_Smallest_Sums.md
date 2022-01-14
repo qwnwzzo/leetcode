@@ -29,8 +29,8 @@ Output: [1,3],[2,3]
 Explanation: All possible pairs are returned from the sequence: [1,3],[2,3]
 ```
 
-**Solution**
-```Python
+**Solution 01**
+```python
 from Queue import PriorityQueue
 
 class Solution(object):
@@ -51,6 +51,35 @@ class Solution(object):
             temp = q.get()
             ans.append([temp[1], temp[2]])
             k -= 1
+        
+        return ans
+```
+
+**Solution 02**
+```python
+from Queue import PriorityQueue
+
+class Solution(object):
+    def kSmallestPairs(self, nums1, nums2, k):
+        """
+        :type nums1: List[int]
+        :type nums2: List[int]
+        :type k: int
+        :rtype: List[List[int]]
+        """
+        q = PriorityQueue()
+        n = len(nums1)
+        m = len(nums2)
+        for i in range(min(n, k)):
+            q.put([nums1[i] + nums2[0], i, 0])
+        
+        ans = []
+        while q.qsize() > 0 and k > 0:
+            [_, i, j] = q.get()
+            ans.append([nums1[i], nums2[j]])
+            k -= 1
+            if j + 1 < m:
+                q.put([nums1[i] + nums2[j + 1], i, j + 1])
         
         return ans
 ```
