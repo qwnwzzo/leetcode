@@ -87,6 +87,7 @@
 [746. Min Cost Climbing Stairs (Easy)](./701-800/746_Min_Cost_Climbing_Stairs.md)<br />
 [983. Minimum Cost For Tickets (Medium)](./901-1000/983_Minimum_Cost_For_Tickets.md)<br />
 [1143. Longest Common Subsequence (Medium)](./1101-1200/1143_Longest_Common_Subsequence.md)<br />
+[1220. 统计元音字母序列的数目 (Hard)](./1201-1300/1220_统计元音字母序列的数目.md)<br />
 
 ### Graph
 [133. Clone Graph (Medium)](./101-200/133_Clone_Graph.md)<br />
