@@ -18,7 +18,8 @@
 [429. N-ary Tree Level Order Traversal (Medium)](./401-500/429_N-ary_Tree_Level_Order_Traversal.md)<br />
 [542. 01 Matrix (Medium)](./501-600/542_01_Matrix.md)<br />
 [1161. Maximum Level Sum of a Binary Tree (Medium)](./1101-1200/1161_Maximum_Level_Sum_of_a_Binary_Tree.md)<br />
-[1162. As Far from Land as Possible (Medium)](./1101-1200/1162_As_Far_from_Land_as_Possible.md)
+[1162. As Far from Land as Possible (Medium)](./1101-1200/1162_As_Far_from_Land_as_Possible.md)<br />
+[1345. 跳跃游戏 IV (Hard)](./1301-1400/1345_跳跃游戏IV.md)<br />
 
 ### Binary Search
 [33. Search in Rotated Sorted Array (Medium)](./1-100/33_Search_in_Rotated_Sorted_Array.md)<br />
