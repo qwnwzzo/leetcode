@@ -241,6 +241,7 @@
 [915. Partition Array into Disjoint Intervals (Medium)](./901-1000/915_Partition_Array_into_Disjoint_Intervals.md)<br />
 [917. Reverse Only Letters (Easy)](./901-1000/917_Reverse_Only_Letters.md)<br />
 [925. Long Pressed Name (Easy)](./901-1000/925_Long_Pressed_Name.md)<br />
+[1332. 删除回文子序列 (Easy)](.1301-1400/1332_删除回文子序列.md)<br />
 
 ### Union Find
 [547. Friend Circles (Medium)](./501-600/547_Friend_Circles.md)<br />
