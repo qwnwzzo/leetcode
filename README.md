@@ -247,4 +247,8 @@
 [547. Friend Circles (Medium)](./501-600/547_Friend_Circles.md)<br />
 [684. Redundant Connection (Medium)](./601-700/684_Redundant_Connection.md)<br />
 [721. Accounts Merge (Medium)](./701-800/721_Accounts_Merge.md)<br />
-[737. Sentence Similarity II (Medium)](./701-800/737_Sentence_Similarity_II.md)
+[737. Sentence Similarity II (Medium)](./701-800/737_Sentence_Similarity_II.md)<br />
+<br />
+<br />
+### 欢迎大家关注我的公众号，互相学习学习<br />
+![公众号](./test.jpg)
