@@ -182,6 +182,7 @@
 [520. Detect Capital (Easy)](./501-600/520_Detect_Capital.md)<br />
 [722. Remove Comments (Medium)](./701-800/722_Remove_Comments.md)<br />
 [880. Decoded String at Index (Medium)](./801-900/880_Decoded_String_at_Index.md)<br />
+[2047. 句子中的有效单词数 (Medium)](./2001-2100/2047_句子中的有效单词数.md)<br />
 
 ### Tree
 [98. Validate Binary Search Tree (Medium)](./1-100/98_Validate_Binary_Search_Tree.md)<br />
